@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+geo_seo_report_*.html
+geo_seo_report_*.json
+opportunities_*.csv

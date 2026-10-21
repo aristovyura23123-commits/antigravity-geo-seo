@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "geo-seo",
+  "version": "1.0.0",
+  "description": "Автономная мультиагентная AI-система поисковой оптимизации для традиционных поисковых систем и генеративных ИИ-движков (GEO / AEO): бенчмарк Princeton GEO-bench (SoM, CPI, EI), детерминированный скоринг, нелинейная матрица приоритизации, синтез артефактов JSON-LD / Answer-First и интерактивный дашборд.",
+  "author": {
+    "name": "aristovyura23123-commits"
+  },
+  "keywords": [
+    "antigravity",
+    "antigravity-plugin",
+    "seo",
+    "geo",
+    "aeo",
+    "generative-engine-optimization",
+    "ai-overviews",
+    "perplexity",
+    "chatgpt-search",
+    "princeton-geo-bench",
+    "schema-org",
+    "answer-first",
+    "knowledge-graph"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/aristovyura23123-commits/antigravity-geo-seo"
+}
